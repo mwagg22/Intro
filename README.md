@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mwagg22/mwagg22/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mwagg22/Intro/f5bd576aae0b7833554ccc22c684baf4e57775ea/snake.svg" alt="Snake animation" />
 
 ###
 

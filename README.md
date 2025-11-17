@@ -41,9 +41,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwagg22/mwagg22/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwagg22/mwagg22/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mwagg22/mwagg22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwagg22/Intro/f57ed2821861c52489f3015ddee516798e1066fc/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwagg22/Intro/f57ed2821861c52489f3015ddee516798e1066fc/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mwagg22/Intro/f57ed2821861c52489f3015ddee516798e1066fc/pacman-contribution-graph.svg">
 </picture>
 
 ###
